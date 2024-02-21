@@ -1,3 +1,5 @@
+# Does not work in multiplayer. Only singleplayer
+
 This is a Barony checkpoint script coded in python. This does not require any modded version of the game, and can be used across all versions unless they change savefile contents. 
 
 # How it works
